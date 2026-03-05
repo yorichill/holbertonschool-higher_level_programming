@@ -1,1 +1,1 @@
-# SQL_introduction
+Project 1 - SQL introduction

@@ -1,2 +1,2 @@
--- liste toute les donées du server mysql
+-- Lists all the tables of a database in your MySQL server
 SHOW TABLES;
